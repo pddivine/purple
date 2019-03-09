@@ -1,0 +1,27 @@
+{
+  "name": "purple",
+  "version": "1.0.0",
+  "description": "purple and sphero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pddivine/purple.git"
+  },
+  "keywords": [
+    "purple",
+    "sphero"
+  ],
+  "author": "Patrick Divine",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/pddivine/purple/issues"
+  },
+  "homepage": "https://github.com/pddivine/purple#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "spherov2.js": "0.0.6"
+  }
+}
